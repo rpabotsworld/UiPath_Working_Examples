@@ -1,0 +1,11 @@
+Param(
+
+    [Parameter(Mandatory=$true)] [string]$ServiceState,
+    [Parameter(Mandatory=$true)] [string]$OutputFilePath
+	
+
+   )
+
+   
+Get-Service | Where-Object {$_.Status -eq $ServiceState} | out-file -Filepath $OutputFilePath -append 
+Start-sleep 10

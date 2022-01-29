@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKbczDJAiMx2gFUYE32QxWt+W01VZua6iNTNMzPQy3SLFcGvHpcyDwPVFF+NF/qYHnM3ZrFVRRusD1D0ErnM7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prasa\\Desktop\\Example of Using the Try Catch Activity Initial\\.local\\",
+  "expectedPackageFiles": [
+    "C:\\Users\\prasa\\.nuget\\packages\\avalonedit\\5.0.3\\avalonedit.5.0.3.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\caliburn.micro\\3.0.1\\caliburn.micro.3.0.1.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\caliburn.micro.core\\3.0.1\\caliburn.micro.core.3.0.1.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\csvhelper\\2.13.5\\csvhelper.2.13.5.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\extended.wpf.toolkit.2.8.0.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\humanizer.core\\2.4.2\\humanizer.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.10\\microsoft.rest.clientruntime.2.3.10.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\npoi\\2.2.1\\npoi.2.2.1.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\sharpziplib\\0.86.0\\sharpziplib.0.86.0.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\uipath\\9.0.6893.27943\\uipath.9.0.6893.27943.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\uipath.excel.activities\\2.0.6479.13204\\uipath.excel.activities.2.0.6479.13204.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\uipath.system.activities.18.3.6897.22524.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\uipath.uiautomation.activities.18.3.6897.22543.nupkg.sha512",
+    "C:\\Users\\prasa\\.nuget\\packages\\uipath.vision\\1.1.0\\uipath.vision.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
