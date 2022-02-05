@@ -1,0 +1,4 @@
+firstName,lastName,age,address/streetAddress,address/city,address/state,address/postalCode,phoneNumber/0/type,phoneNumber/0/number,phoneNumber/1/type,phoneNumber/1/number
+John,Smith,31,21 2nd Street,New York,NY,10021,home,212 555-1234,,
+John,Doe,27,21 2nd Street,New Delhi,NY,10021,home,212 555-1234,mobile,212 555-1234
+Maria,Smith,34,21 2nd Street,Michigan,MI,99971,home,212 555-1234,mobile,212 555-1234

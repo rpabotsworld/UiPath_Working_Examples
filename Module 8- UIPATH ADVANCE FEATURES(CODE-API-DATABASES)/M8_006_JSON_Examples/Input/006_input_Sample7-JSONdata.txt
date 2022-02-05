@@ -1,0 +1,84 @@
+{
+  "destination_addresses": [
+    "Washington, DC, USA",
+    "Philadelphia, PA, USA",
+    "Santa Barbara, CA, USA",
+    "Miami, FL, USA",
+    "Austin, TX, USA",
+    "Napa County, CA, USA"
+  ],
+  "origin_addresses": [
+    "New York, NY, USA"
+  ],
+  "rows": [{
+    "elements": [{
+        "distance": {
+          "text": "227 mi1",
+          "value": 3654681
+        },
+        "duration": {
+          "text": "3 hours 54 mins1",
+          "value": 140641
+        },
+        "status": "OK1"
+      },
+      {
+        "distance": {
+          "text": "94.6 mi2",
+          "value": 1521932
+        },
+        "duration": {
+          "text": "1 hour 44 mins2",
+          "value": 62272
+        },
+        "status": "OK2"
+      },
+      {
+        "distance": {
+          "text": "2,878 mi3",
+          "value": 46321973
+        },
+        "duration": {
+          "text": "1 day 18 hours3",
+          "value": 1517723
+        },
+        "status": "OK3"
+      },
+      {
+        "distance": {
+          "text": "1,286 mi4",
+          "value": 20690314
+        },
+        "duration": {
+          "text": "18 hours 43 mins4",
+          "value": 674054
+        },
+        "status": "OK4"
+      },
+      {
+        "distance": {
+          "text": "1,742 mi5",
+          "value": 28029725
+        },
+        "duration": {
+          "text": "1 day 2 hours5",
+          "value": 930705
+        },
+        "status": "OK5"
+      },
+      {
+        "distance": {
+          "text": "2,871 mi6",
+          "value": 46205146
+        },
+        "duration": {
+          "text": "1 day 18 hours6",
+          "value": 1529136
+        },
+        "status": "OK6"
+      }
+    ]
+  }],
+  "status": "OK7"
+}
+

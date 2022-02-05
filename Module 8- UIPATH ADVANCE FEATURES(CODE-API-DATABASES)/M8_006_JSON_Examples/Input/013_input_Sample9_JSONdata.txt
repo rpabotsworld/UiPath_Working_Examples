@@ -1,0 +1,26 @@
+{
+  "PlantIDArr": [
+    "BPM1",
+    "BPM2",
+    "BPM3",
+    "BPM7",
+    "BPM8"
+  ],
+  "MRPControllerArr": [
+    "101",
+    "102",
+    "103",
+    "104",
+    "105"
+  ],
+  "AlertedUsers": [
+    {
+      "Name": "Inventory Group",
+      "Email": "!FMG_Inventory_Management_Group@aes.com"
+    },
+    {
+      "Name": "eg2",
+      "Email": "eg2@test.com"
+    }
+  ]
+}
